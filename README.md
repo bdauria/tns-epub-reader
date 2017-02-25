@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# tns-epub-reader
- Epub Reader With NativeScript and Epub.js
-=======
-tns-epub-reader
->>>>>>> Initial commit
+
+# NativeScript Epub Reader using Epub.js
+
+Repository from the post: http://www.blog.bdauria.com/?p=1117
