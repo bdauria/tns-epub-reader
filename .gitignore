@@ -1,0 +1,17 @@
+npm-debug.log
+
+app/**/*.js
+!app/www/js/epub-reader.js
+app/**/*.js.map
+!app/tns-java-classes.js
+hooks/
+lib/
+!app/www/lib/epub.min.js
+!app/www/lib/zip.min.js
+!app/www/lib/nativescript-webview-interface.js
+node_modules/
+platforms/
+tmp/
+typings/
+
+**/*.DS_Store
